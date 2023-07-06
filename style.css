@@ -8,7 +8,7 @@ body{
 }
 .gamecont{
 
-background-image: url(land.png);
+background-image: url(media/land.png);
 background-repeat: no-repeat;
 background-size: 100vw 100vh;
 width: 100%;
@@ -16,7 +16,7 @@ height: 100vh;
 }
 
 .bunny{
-    background-image: url(bun.png);
+    background-image: url(media/bun.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 180px;
@@ -28,7 +28,7 @@ height: 100vh;
 .barrier{
     width: 200px;
     height: 200px;
-    background-image: url(rock.png);
+    background-image: url(media/rock.png);
     transform: rotate(270deg);
     background-size: cover;
     position: absolute;
